@@ -6,4 +6,4 @@
 
 
 ### Functions
-- readdirpath(dir, recursive=false)
+- readdirpath(dir; recursive=false, sorted=false)
