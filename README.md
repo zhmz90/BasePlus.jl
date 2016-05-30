@@ -7,3 +7,4 @@
 
 ### Functions
 - readdirpath(dir; recursive=false, sorted=false)
+- splitstrip{T<:AbstractString}(line::T, splitter::String)
