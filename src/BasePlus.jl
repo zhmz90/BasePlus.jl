@@ -1,5 +1,5 @@
 module BasePlus
 
-# package code goes here
+include("os.jl")
 
 end # module
